@@ -29,9 +29,9 @@ import north44 from './north44.jpg'
 import raj from './raj.png'
 import raj2 from './raj2.png'
 import sanje from './sanje.png'
-import sarmitha from './sarmitha.png'
-import sentha from './sentha.png'
-import shiva from './shiva.png'
+import thuve from './thuve.png'
+import senth from './senth.png'
+import niru from './niru.png'
 import sliit0 from './sliit0.jpg'
 import sliit1 from './sliit1.jpg'
 import sliit2 from './sliit2.jpg'
@@ -46,13 +46,16 @@ import sliitfeb6 from './sliitfeb6.jpg'
 import thanu from './thanu.png'
 import tharaa from './tharaa.png'
 import thenu from './thenu.png'
+import kaja from './kaja.png'
 import thulaxan from './thulaxan.png'
 import vb from './vb.jpg'
-import vithu from './vithu.png'
-import nira from './nira.png'
-import thiksi from './thiksi.png'
+import mithu from './mithu.png'
+import pira from './pira.png'
+import abi from './abi.png'
+import aji from './aji.png'
+import thiru from './thiru.png'
+import thiba from './thiba.png'
 import andrew from './andrew.png'
-import arthi from './arthi.png'
 import vanta1 from './vanta1.png'
 import vanta2 from './vanta2.png'
 import vanta3 from './vanta3.png'
@@ -92,10 +95,13 @@ export const assets = {
   north44,
   raj,
   raj2,
+  kaja,
   sanje,
-  sarmitha,
-  sentha,
-  shiva,
+  thuve,
+  senth,
+  niru,
+  abi,
+  thiru,
   sliit1,
   sliit2,
   sliit0,
@@ -111,11 +117,11 @@ export const assets = {
   thenu,
   tharaa,
   thulaxan,
-  vithu,
-  nira,
+  mithu,
   andrew,
-  thiksi,
-  arthi,
+  thiba,
+  pira,
+  aji,
   vanta1,
   vanta2,
   vanta3,

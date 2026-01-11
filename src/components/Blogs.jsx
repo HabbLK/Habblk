@@ -7,13 +7,13 @@ const events = [
     title: "Jaffna Office Meetup 🚀",
     description: "A great team meetup at our Jaffna office — unity, strategy, and fun!",
     image: assets.jaffna_meetup, // Make sure to add this image to your assets
-    link: "https://habblanka.com/2025/06/25/habb-jaffna/",
+    link: "https://habb.lk/2025/06/25/habb-jaffna/",
   },
   {
     title: "Vanta 25 Showcase 🚀",
     description: "Proud to be part of Vanta 25 – celebrating innovation and tech!",
     image: assets.vanta25, // Make sure to add this image to your assets
-    link: "https://habblanka.com/2025/07/04/vanta-25-habb-phase-2-begins-a-new-era-of-product-driven-innovation/",
+    link: "https://habb.lk/2025/07/04/vanta-25-habb-phase-2-begins-a-new-era-of-product-driven-innovation/",
   },
   {
     title: "Team HABB at SLIIT! 🚀",
@@ -25,13 +25,13 @@ const events = [
     title: "Exciting Beginnings! 🚀",
     description: "Thrilled to announce the launch of HABB Software Company!",
     image: assets.sliit1,
-    link: "https://habblanka.com/2025/02/08/habb-launched/",
+    link: "https://habb.lk/2025/02/08/habb-launched/",
   },
   {
     title: "Innovating at Northern Uni! 🚀",
     description: "Discussing HABB’s vision and future impact with aspiring minds!",
     image: assets.north1,
-    link: "https://habblanka.com/2025/02/16/habb-nothern-uni/",
+    link: "https://habb.lk/2025/02/16/habb-nothern-uni/",
   },
   {
     title: "Team HABB at SLIIT! 🚀",
@@ -49,7 +49,7 @@ const events = [
     title: "Team HABB at SLIIT! 🚀",
     description: "A productive discussion at SLIIT on our projects and growth!",
     image: assets.sliitfeb4_1,
-    link: "https://habblanka.com/2025/03/01/habb-at-sliit/",
+    link: "https://habb.lk/2025/03/01/habb-at-sliit/",
   },
   {
     title: "Inspiring Collaboration! 🚀",
@@ -61,7 +61,7 @@ const events = [
     title: "HABB Inc 🚀",
     description: "Go Beyond!",
     image: assets.habb1,
-    link: "https://habblanka.com/2025/01/26/habb-inc/",
+    link: "https://habb.lk/2025/01/26/habb-inc/",
   },
 ];
 

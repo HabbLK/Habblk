@@ -98,7 +98,7 @@ const Header = () => {
 
               {/* New POS Link with Blinking Effect */}
               <motion.a
-                href="https://habblanka.com"
+                href="https://habb.lk"
                 className="px-6 py-3 bg-red-500 text-white rounded-full font-semibold hover:bg-red-600 transition duration-300"
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}

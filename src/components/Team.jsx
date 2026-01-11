@@ -3,9 +3,39 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import { assets } from "../assets/assets";
 
 const teamMembers = [
+    {
+    name: "Thuverakan Tharumakulasooriyan",
+    role: "Software Engineer",
+    image: assets.thuve,
+    linkedin: "https://www.linkedin.com/in/thuverakan10/",
+  },
+      {
+    name: "Niruthan Paranthaman",
+    role: "AI Software Engineer",
+    image: assets.niru,
+    linkedin: "https://www.linkedin.https://www.linkedin.com/in/niruthan-paranthaman/",
+  },
+    {
+    name: "Senthalan Vyravanathan",
+    role: "Software Engineer",
+    image: assets.senth,
+    linkedin: "http://linkedin.com/in/senthvyra",
+  },
+    {
+    name: "Mithunan Jeyamohan",
+    role: "Full-Stack & AI/ML Developer",
+    image: assets.mithu,
+    linkedin: "https://www.linkedin.com/in/mithunan-jeyamohan-26566328a/",
+  },
+    {
+    name: "Sanjeev Vijayaratnam",
+    role: "Human Resources Manager",
+    image: assets.sanje,
+    linkedin: "http://linkedin.com/in/sanjeevvijay",
+  },
   {
     name: "Thenujan Amirthanathan",
-    role: "Managing Director",
+    role: "Managing Director - UK Branch",
     image: assets.thenu,
     linkedin: "http://linkedin.com/in/thenujan-amirthanathan-52034a1b3",
   },
@@ -15,21 +45,52 @@ const teamMembers = [
     image: assets.thulaxan,
     linkedin: "http://linkedin.com/in/thulaxan",
   },
-  {
-    name: "Senthalan Vyravanathan",
-    role: "Software Engineer",
-    image: assets.sentha,
-    linkedin: "http://linkedin.com/in/senthvyra",
+  
+    {
+    name: "Andrew Asher",
+    role: "Product Manager AI - UK Branch",
+    image: assets.andrew,
+    linkedin: "http://linkedin.com/in/andrew-asher",
   },
   {
-    name: "Sanjeev Vijayaratnam",
+    name: "Thibakar Srisomaskanthan",
+    role: "AI/ML Engineer",
+    image: assets.thiba,
+    linkedin: "https://www.linkedin.com/in/thibakar-sri/",
+  },
+    {
+    name: "Pirakash Ravindran",
     role: "UI/UX Designer",
-    image: assets.sanje,
-    linkedin: "http://linkedin.com/in/sanjeevvijay",
+    image: assets.pira,
+    linkedin: "https://www.linkedin.com/in/pirakash-ravindran-882a04315/",
+  },
+  {
+    name: "Abinaya Rajasekara",
+    role: "Software Engineer - UK Branch",
+    image: assets.abi,
+    linkedin: "https://www.linkedin.com/in/abinaya-rajasekara-4905372a8/",
+  },
+    {
+    name: "Ajiththana Kalaiyarasan",
+    role: "Business Analyst",
+    image: assets.aji,
+    linkedin: "https://www.linkedin.com/in/ak-agiththana/",
+  },
+  {
+    name: "Thiruverakan Thirumal",
+    role: "AI/ML Engineer - UK Branch",
+    image: assets.thiru,
+    linkedin: "https://www.linkedin.com/in/thiruverakan-t-1877b52a8/",
+  },
+    {
+    name: "Arunthavarajah Kajaraj",
+    role: "AI/ML Engineer - UK Branch",
+    image: assets.kaja,
+    linkedin: "https://www.linkedin.com/in/arunthavarajah-kajaraj/",
   },
   {
     name: "Thanushan Vijayaratnam",
-    role: "DevOps Engineer",
+    role: "DevOps Engineer - UK Branch",
     image: assets.thanu,
     linkedin: "http://linkedin.com/in/thanushanvijayaratnam",
   },
@@ -39,48 +100,7 @@ const teamMembers = [
     image: assets.raj,
     linkedin: "http://linkedin.com/in/rajpuvan",
   },
-  {
-    name: "Andrew Asher",
-    role: "Product Manager AI",
-    image: assets.andrew,
-    linkedin: "http://linkedin.com/in/andrew-asher",
-  },
-  {
-    name: "Thiksiga Ragulakaran",
-    role: "Lead AI/ML R&D Engineer",
-    image: assets.thiksi,
-    linkedin: "https://www.linkedin.com/in/thiksiga-ragulakaran-619501202/",
-  },
-  {
-    name: "Vithusa Pathmanathan",
-    role: "Intern Frontend Developer",
-    image: assets.vithu,
-    linkedin: "http://linkedin.com/in/vithusha-pathmanathan-8b356828a",
-  },
-  {
-    name: "Sarmitha Suntharamoorthy",
-    role: "Intern UI/UX Designer",
-    image: assets.sarmitha,
-    linkedin: "https://www.linkedin.com/in/sarmitha-suntharamoorthy-9541402b7/",
-  },
-  {
-    name: "Niranthari Mohanarajakumar",
-    role: "Project Manager",
-    image: assets.nira,
-    linkedin: "https://www.linkedin.com/in/niramohan",
-  },
-  {
-    name: "Shivaphiriyan Arumugathash",
-    role: "Intern Softeware Engineer",
-    image: assets.shiva,
-    linkedin: "https://www.linkedin.com/in/shivaphiriyan/",
-  },
-  {
-    name: "Anujeyan Arthigan",
-    role: "AI/ML Engineer",
-    image: assets.arthi,
-    linkedin: "https://www.linkedin.com/in/arthigan2020/",
-  },
+
 ];
 
 const Team = () => {
