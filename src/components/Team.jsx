@@ -35,7 +35,7 @@ const teamMembers = [
   },
   {
     name: "Thenujan Amirthanathan",
-    role: "Managing Director - UK Branch",
+    role: "Managing Director",
     image: assets.thenu,
     linkedin: "http://linkedin.com/in/thenujan-amirthanathan-52034a1b3",
   },
@@ -45,10 +45,10 @@ const teamMembers = [
     image: assets.thulaxan,
     linkedin: "http://linkedin.com/in/thulaxan",
   },
-  
+
     {
     name: "Andrew Asher",
-    role: "Product Manager AI - UK Branch",
+    role: "Managing Director - UK Branch",
     image: assets.andrew,
     linkedin: "http://linkedin.com/in/andrew-asher",
   },

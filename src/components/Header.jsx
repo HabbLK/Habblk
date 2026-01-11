@@ -107,7 +107,7 @@ const Header = () => {
                 }}
               >
                 <span className="relative">
-                  .COM
+                  .LK
                   <span className="absolute top-0 right-0 text-xs bg-yellow-400 text-black rounded-full w-4 h-4 flex items-center justify-center animate-ping">!</span>
                 </span>
               </motion.a>
