@@ -15,31 +15,31 @@ const Footer = () => {
 
         {/* Copyright */}
         <p className="text-gray-400 text-sm mt-2 md:mt-0">
-          © 2025 Habb. All rights reserved.
+          © 2026 Habb. All rights reserved.
         </p>
 
         {/* Social Icons */}
         <div className="flex space-x-4 mt-4 md:mt-0">
           <a
-            href="https://www.linkedin.com/company/habbinc"
+            href="https://www.linkedin.com/company/habblk"
             className="p-2 rounded-lg bg-[#1E293B] hover:bg-primary transition"
           >
             <FaLinkedinIn className="text-white text-lg" />
           </a>
           <a
-            href="https://www.twitter.com/habb_inc"
+            href="https://www.twitter.com/habbglobal"
             className="p-2 rounded-lg bg-[#1E293B] hover:bg-primary transition"
           >
             <FaTwitter className="text-white text-lg" />
           </a>
           <a
-            href="https://www.facebook.com/habbinc"
+            href="https://www.facebook.com/habb.lk"
             className="p-2 rounded-lg bg-[#1E293B] hover:bg-primary transition"
           >
             <FaFacebookF className="text-white text-lg" />
           </a>
           <a
-            href="https://www.instagram.com/habb_inc"
+            href="https://www.instagram.com/habb.lk"
             className="p-2 rounded-lg bg-[#1E293B] hover:bg-primary transition"
           >
             <FaInstagram className="text-white text-lg" />
