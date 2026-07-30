@@ -24,7 +24,7 @@ function FacebookFeed() {
     <div className="facebook-feed" style={{ textAlign: 'center', marginTop: '20px' }}>
       <div
         className="fb-page"
-        data-href="https://www.facebook.com/habbinc"
+        data-href="https://www.facebook.com/habbglobal"
         data-tabs="timeline"
         data-width="500"
         data-height="500"
@@ -34,10 +34,10 @@ function FacebookFeed() {
         data-show-facepile="true"
       >
         <blockquote
-          cite="https://www.facebook.com/habbinc"
+          cite="https://www.facebook.com/habbglobal"
           className="fb-xfbml-parse-ignore"
         >
-          <a href="https://www.facebook.com/habbinc">HABB Pvt Ltd</a>
+          <a href="https://www.facebook.com/habbglobal">HABB Pvt Ltd</a>
         </blockquote>
       </div>
     </div>
